@@ -128,3 +128,14 @@ body {
     cursor: pointer;
     transform: scale(0.8);
 }
+
+.hyperlinkimage {
+    display: flex;
+    justify-content: center;
+}
+
+.hyperlinkimage img {
+    margin-top: 20px;
+    object-fit: cover;
+    width: 25%;
+}
