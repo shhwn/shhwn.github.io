@@ -30,7 +30,7 @@ div {
 }
 
 .welcomeanimation img {
-    animation: rotateHorizontal 2s linear infinite;
+    animation: rotateHorizontal 1.5s linear infinite;
     height: auto;
     object-fit: cover;
     display: flex;
@@ -74,7 +74,7 @@ div {
 }
 
 .musictab:active {
-    transition: 0.2s ease-in-out;
+    transition: 0.3s ease-in-out;
 }
 
 h3 {
@@ -92,9 +92,10 @@ h3 {
 
 .newstuff {
     margin-top: auto;
+    margin-bottom: auto;
     cursor: default;
     height: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .sin {
