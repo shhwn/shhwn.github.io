@@ -49,7 +49,6 @@ body {
 }
 
 .tabbuttons button {
-    color: aliceblue;
     cursor: pointer;
     padding: 20px 40px;
     border-radius: 12px;
