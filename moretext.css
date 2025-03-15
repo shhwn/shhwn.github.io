@@ -53,12 +53,12 @@ body {
     padding: 20px 40px;
     border-radius: 12px;
     font-size: medium;
+    background-color: #313131;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .pagetabs {
     border: none;
-    background-color: #232323;
     background-position: left;
 }
 
@@ -70,7 +70,7 @@ body {
 
 @keyframes fill {
     0% {
-        background-color: #232323;
+        background-color: #202020;
     }
     100% {
         background-color: #ff073a;
